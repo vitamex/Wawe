@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Wawe/static/css/main.dd714992.css",
+    "main.js": "/Wawe/static/js/main.cdf7be40.js",
+    "static/js/787.d954ef8c.chunk.js": "/Wawe/static/js/787.d954ef8c.chunk.js",
+    "static/media/haeder_background.png": "/Wawe/static/media/haeder_background.55dcedd67f762b3f5f84.png",
+    "static/media/surfer.png": "/Wawe/static/media/surfer.d13917e990d5144fef1b.png",
+    "static/media/Olga.png": "/Wawe/static/media/Olga.8c9f3a5a7c698cbf62e0.png",
+    "static/media/Mary.png": "/Wawe/static/media/Mary.9b80262c0df6779f5af0.png",
+    "static/media/Mike.png": "/Wawe/static/media/Mike.c2428ef6dad0ef287727.png",
+    "index.html": "/Wawe/index.html",
+    "main.dd714992.css.map": "/Wawe/static/css/main.dd714992.css.map",
+    "main.cdf7be40.js.map": "/Wawe/static/js/main.cdf7be40.js.map",
+    "787.d954ef8c.chunk.js.map": "/Wawe/static/js/787.d954ef8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd714992.css",
+    "static/js/main.cdf7be40.js"
+  ]
+}
